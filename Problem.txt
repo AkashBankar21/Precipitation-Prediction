@@ -1,0 +1,17 @@
+Project Code: DA-08
+
+We want to predict the amount of precipitation(rain) given the weather
+attributes for a particular day using regression analysis. Split the dataset into
+training and testing sets and report the RMSE and R-2 score for each regression
+problem mentioned below.
+1. Are there any missing values, NaN present in this dataset? What are
+steps that you have taken to handle the same? Write about the same in
+the report in detail.
+2. Use simple linear regression to predict ‘Precip’ utilizing individual
+weather attributes as mentioned before.
+3. Use multiple linear regression to predict ‘Precip’ utilizing all the weather
+attributes.
+4. Use nonlinear regression with order 2, 3, 4, 5, and 6 to predict the
+‘Precip’ and compare all the results through scatter plots or other plots.
+
+Dataset URL : https://www.kaggle.com/datasets/budincsevity/szegedweather
